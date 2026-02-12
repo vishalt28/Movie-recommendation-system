@@ -34,3 +34,6 @@ A similarity metric such as cosine similarity is computed between movies based o
 
 Recommendation Logic
 Based on similarity scores, top N similar movies are recommended for a given movie.
+
+
+DATASET Link: https://www.kaggle.com/datasets/me18b039/movie-dataset/data
